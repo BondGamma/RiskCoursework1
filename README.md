@@ -1,4 +1,7 @@
 # Risk CW
+
+Last update October 12 @ 8:42PM
+
 ```
     📈 STONKS 📈
     
