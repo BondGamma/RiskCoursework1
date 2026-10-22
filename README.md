@@ -1,6 +1,6 @@
 # Risk CW
 
-Last update October 21 @ 4:30PM
+Last update October 22 
 
 Almost done, need to finish calculation of VaR4
 
